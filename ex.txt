@@ -1,2 +1,12 @@
-i am bob       //names the current procces.
-you are joe    
+i am officer  //names the current procces.
+i say hi      //print to console "hi"
+hello, joe    //creates thread joe
+i am billy    //forks: now 2 processes: 
+              //                       - bob with thread joe
+              //                       - billy with no threads
+
+i say "youll never catch me alive"  //prints to console "youll never catch me alive"
+i kill myself                       //billy terminates itself
+i am bob                            //access bob
+i say "bastard!"                    //print "bastard!" to console 
+i leave                             //terminates and returns 0
