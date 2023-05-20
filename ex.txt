@@ -1,0 +1,2 @@
+i am bob       //names the current procces.
+you are joe    
